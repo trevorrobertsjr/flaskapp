@@ -19,7 +19,7 @@ def hello():
 </head>
 
 <body>
-  <h1>Hello, Containers AAoD!</h1>
+  <h1>Hello, Containers AAoD Cohort 2021!</h1>
 </body>
 </html>
         """
